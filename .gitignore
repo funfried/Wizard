@@ -6,3 +6,4 @@
 /www/*.jar
 /www/*.nbm
 /www/*.zip
+/nbproject/private/
